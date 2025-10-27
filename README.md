@@ -59,7 +59,6 @@ DEMO_OWNER=
 DEMO_REPO=
 ```
 
-Plus any backend config needed for API routes.
 
 ---
 
